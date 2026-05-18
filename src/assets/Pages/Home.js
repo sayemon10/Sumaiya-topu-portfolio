@@ -9,12 +9,12 @@ import ContactForm from "../../Components/ContactForm/ContactForm";
 const Home = () => {
   return (
     <div>
-      <Hero></Hero>
-      <About></About>
-      <Projects></Projects>
-      <Skill></Skill>
-      <ContactForm></ContactForm>
-      <Footer></Footer>
+      <Hero />
+      <About />
+      <Projects />
+      <Skill />
+      <ContactForm />
+      <Footer />
     </div>
   );
 };
